@@ -1,4 +1,6 @@
-https://datasets.imdbws.com/ Dataset source. Note: Pre-processing was done prior to applying the clustering model. Pre-processing involved, data intergration and data cleaning steps.
+Dataset source: https://datasets.imdbws.com/ . 
+
+Note: Pre-processing was done prior to applying the clustering model. Pre-processing involved, data intergration and data cleaning steps.
 
 # K-means-Clustering
 The program implements k-means clustering algorithm on the movies.json dataset given.
