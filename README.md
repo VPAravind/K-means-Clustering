@@ -1,6 +1,6 @@
 Dataset source: https://datasets.imdbws.com/ . 
 
-Note: Pre-processing was done prior to applying the clustering model. Pre-processing involved, data intergration and data cleaning steps.
+Note: Pre-processing was done prior to applying the clustering model. Pre-processing involved, data intergration and data cleaning steps. MongoDB was used as the database. The data was uploaded to the database using Studio3T. 
 
 # K-means-Clustering
 The program implements k-means clustering algorithm on the movies.json dataset given.
